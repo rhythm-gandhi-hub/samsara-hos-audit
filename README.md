@@ -1,4 +1,4 @@
-# Samsara HOS Compliance Audit Tool 
+# Samsara HOS Compliance Audit Tool by [Fleet Regulators](https://fleetregulators.com/)
 
 > **Version:** v1.0.0
 >
@@ -366,5 +366,5 @@ This repository contains the standalone command-line version of the audit tool.
 
 I am actively expanding this project into a broader compliance platform with additional automation, reporting, analytics, and managed compliance capabilities.
 
-If your fleet is interested in advanced compliance automation or managed safety services, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rhythmkaurgandhi/) 
+If your fleet is interested in advanced compliance automation or managed safety services, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rhythmkaurgandhi/) or at [Fleet Regulators](https://fleetregulators.com/)
 
